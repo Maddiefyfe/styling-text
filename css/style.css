@@ -37,3 +37,12 @@ figcaption {
     color: #757575;
     font-style: italic;
 }
+
+a:link {
+    color: #1a1a1a;
+}
+
+a:hover {
+    text-decoration: none;
+    color: #ff3530
+}
