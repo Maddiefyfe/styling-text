@@ -9,3 +9,7 @@ html {
 img {
     width: 100%;
 }
+
+figcaption, .article-category, .sub-title, .author, time {
+    font-family: 'Open Sans' , sans-serif;
+}
